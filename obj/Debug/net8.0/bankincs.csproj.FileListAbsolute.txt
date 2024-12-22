@@ -1,0 +1,15 @@
+/Users/reem/Desktop/bankincs/bin/Debug/net8.0/bankincs
+/Users/reem/Desktop/bankincs/bin/Debug/net8.0/bankincs.deps.json
+/Users/reem/Desktop/bankincs/bin/Debug/net8.0/bankincs.runtimeconfig.json
+/Users/reem/Desktop/bankincs/bin/Debug/net8.0/bankincs.dll
+/Users/reem/Desktop/bankincs/bin/Debug/net8.0/bankincs.pdb
+/Users/reem/Desktop/bankincs/obj/Debug/net8.0/bankincs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reem/Desktop/bankincs/obj/Debug/net8.0/bankincs.AssemblyInfoInputs.cache
+/Users/reem/Desktop/bankincs/obj/Debug/net8.0/bankincs.AssemblyInfo.cs
+/Users/reem/Desktop/bankincs/obj/Debug/net8.0/bankincs.csproj.CoreCompileInputs.cache
+/Users/reem/Desktop/bankincs/obj/Debug/net8.0/bankincs.sourcelink.json
+/Users/reem/Desktop/bankincs/obj/Debug/net8.0/bankincs.dll
+/Users/reem/Desktop/bankincs/obj/Debug/net8.0/refint/bankincs.dll
+/Users/reem/Desktop/bankincs/obj/Debug/net8.0/bankincs.pdb
+/Users/reem/Desktop/bankincs/obj/Debug/net8.0/bankincs.genruntimeconfig.cache
+/Users/reem/Desktop/bankincs/obj/Debug/net8.0/ref/bankincs.dll
